@@ -1,4 +1,4 @@
-result = {
+{[
 "https://telegra.ph/file/3b2c120025bf3dd4502da.jpg",
 "https://telegra.ph/file/f5d7b4f4c463f7dc83685.jpg",
 "https://telegra.ph/file/a38b7b1e952d97b50974d.jpg",
@@ -24,4 +24,4 @@ result = {
 "https://telegra.ph/file/4ffa3d6d5a2219606f8f6.jpg",
 "https://telegra.ph/file/84e6fab66afc0d871c7c9.jpg",
 "https://telegra.ph/file/ec3d4a3f2354ef5947aa9.jpg"
-}
+}]
