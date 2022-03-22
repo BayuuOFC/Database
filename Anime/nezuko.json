@@ -1,4 +1,6 @@
-[
+{
+"result": [
+  {
 "https://telegra.ph/file/3b2c120025bf3dd4502da.jpg",
 "https://telegra.ph/file/f5d7b4f4c463f7dc83685.jpg",
 "https://telegra.ph/file/a38b7b1e952d97b50974d.jpg",
@@ -19,9 +21,11 @@
 "https://telegra.ph/file/2d249fad1ce4e556130ac.jpg",
 "https://telegra.ph/file/4781103391ce8f33e1e1f.jpg",
 "https://telegra.ph/file/4168b3c148577aa4572ef.jpg",
-"https://telegra.ph/file/d1772349928736bb5a910.jpg"
+"https://telegra.ph/file/d1772349928736bb5a910.jpg",
 "https://telegra.ph/file/a71b45d56afad7278659a.jpg",
 "https://telegra.ph/file/4ffa3d6d5a2219606f8f6.jpg",
 "https://telegra.ph/file/84e6fab66afc0d871c7c9.jpg",
 "https://telegra.ph/file/ec3d4a3f2354ef5947aa9.jpg"
 ]
+  }
+}
